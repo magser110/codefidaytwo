@@ -1,0 +1,10 @@
+.redbox {
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 20px;
+    background-color: red;
+}
+
+/* when inspected, the width and height are not accurate? */
